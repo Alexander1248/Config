@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 public class App {
 //    D:\Projects\JavaProjects\NeuralEngine
+//    D:\Projects\JavaProjects\BodyTreckering
+//
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter git project path: ");
